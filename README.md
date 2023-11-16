@@ -11,7 +11,7 @@ Automatically includes the required headers while compiling and linking the exec
 ### Usage
 ---
 
-- Update `project_name` in `CMakeLists.txt`
+- Update `project_name` in `CMakeLists.txt` and `run.sh`
 
 ### Build & Run
 ---
