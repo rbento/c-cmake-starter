@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Running...");
+    printf("Running...\n");
 
     startup();
 

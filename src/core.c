@@ -3,5 +3,5 @@
 
 void startup()
 {
-    printf("Startup...");
+    printf("Startup...\n");
 }
