@@ -31,6 +31,8 @@ Includes scripts for cleaning and building the project.
 ./run.sh
 ```
 
+<img width="1274" alt="Screenshot 2023-11-16 at 4 58 41 AM" src="https://github.com/rbento/c-cmake-starter/assets/1512264/94a0d866-7e35-437f-bc78-201dde75bc12">
+
 #### Windows / Visual Studio
 
 - Open a local folder
