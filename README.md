@@ -28,7 +28,7 @@ Includes scripts for cleaning and building the project.
 ./build.sh
 
 # Run
-./build/project_name
+./run.sh
 ```
 
 #### Windows / Visual Studio
